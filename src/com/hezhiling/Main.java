@@ -1,5 +1,8 @@
-package com.company;
+package com.hezhiling;
 
+/**
+ * @author hezhiling
+ */
 public class Main {
 
     public static void main(String[] args) {
